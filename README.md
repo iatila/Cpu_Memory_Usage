@@ -22,7 +22,7 @@ Bu proje, gerçek zamanlı olarak CPU ve bellek kullanımını izleyen bir uygul
    go get github.com/shirou/gopsutil/mem
 
 2. **Projeyi Klonla & Çalıştır**
-  ```bash
-  git clone https://github.com/iatila/Cpu_Memory_Usage.git
-  cd Cpu_Memory_Usage
-  go run main.go
+     ```bash
+     git clone https://github.com/iatila/Cpu_Memory_Usage.git
+     cd Cpu_Memory_Usage
+     go run main.go
